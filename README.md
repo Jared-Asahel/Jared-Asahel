@@ -1,5 +1,8 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="400"/>  
+  <video autoplay loop muted playsinline width="400">
+    <source src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/assets/hero.mp4" type="video/mp4">
+    Tu navegador no soporta videos.
+  </video>
 </h1>
 
 <p align="center">
@@ -37,9 +40,9 @@ Con experiencia en **JavaScript, Node.js, React y MongoDB**, y un pasado en **di
     <td><img src="https://img.shields.io/badge/DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" width="50"/><br>DevTools</td>
     <td><img src="https://skillicons.dev/icons?i=webpack" width="50"/><br>Webpack</td>
     <td><img src="https://skillicons.dev/icons?i=babel" width="50"/><br>Babel</td>
-    <td><img src="https://skillicons.dev/icons?i=json" width="50"/><br>JSON</td>
+    <td><img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" width="50"/><br>JSON</td>
     <td><img src="https://skillicons.dev/icons?i=figma" width="50"/><br>Figma</td>
-    <td><img src="https://skillicons.dev/icons?i=chrome" width="50"/><br>Chrome</td>
+    <td><img src="https://skillicons.dev/icons?i=gcp" width="50"/><br>Google Cloud</td>
     <td><img src="https://skillicons.dev/icons?i=html" width="50"/><br>Extra</td>
   </tr>
 </table>
