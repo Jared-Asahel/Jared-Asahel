@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="50"/> 👋 ¡Hola! Soy Jared Asahel Díaz
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="400"/>  
 </h1>
 
 <p align="center">
@@ -34,10 +34,10 @@ Con experiencia en **JavaScript, Node.js, React y MongoDB**, y un pasado en **di
     <td><img src="https://skillicons.dev/icons?i=git" width="50"/><br>Git</td>
     <td><img src="https://skillicons.dev/icons?i=github" width="50"/><br>GitHub</td>
     <td><img src="https://skillicons.dev/icons?i=vscode" width="50"/><br>VSCode</td>
-    <td><img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" width="50"/><br>DevTools</td>
+    <td><img src="https://img.shields.io/badge/DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" width="50"/><br>DevTools</td>
     <td><img src="https://skillicons.dev/icons?i=webpack" width="50"/><br>Webpack</td>
     <td><img src="https://skillicons.dev/icons?i=babel" width="50"/><br>Babel</td>
-    <td><img src="https://skillicons.dev/icons?i=gcp" width="50"/><br>Google Cloud</td>
+    <td><img src="https://skillicons.dev/icons?i=json" width="50"/><br>JSON</td>
     <td><img src="https://skillicons.dev/icons?i=figma" width="50"/><br>Figma</td>
     <td><img src="https://skillicons.dev/icons?i=chrome" width="50"/><br>Chrome</td>
     <td><img src="https://skillicons.dev/icons?i=html" width="50"/><br>Extra</td>
