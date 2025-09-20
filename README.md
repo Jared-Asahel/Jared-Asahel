@@ -17,22 +17,32 @@ Con experiencia en **JavaScript, Node.js, React y MongoDB**, y un pasado en **di
 ### 🛠️ Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html" /><br>HTML5
-  <img src="https://skillicons.dev/icons?i=css" /><br>CSS3
-  <img src="https://skillicons.dev/icons?i=js" /><br>JavaScript
-  <img src="https://skillicons.dev/icons?i=react" /><br>React.js
-  <img src="https://skillicons.dev/icons?i=nodejs" /><br>Node.js
-  <img src="https://skillicons.dev/icons?i=express" /><br>Express.js
-  <img src="https://skillicons.dev/icons?i=mongodb" /><br>MongoDB
-  <img src="https://skillicons.dev/icons?i=git" /><br>Git
-  <img src="https://skillicons.dev/icons?i=github" /><br>GitHub
-  <img src="https://skillicons.dev/icons?i=vscode" /><br>VSCode
-  <img src="https://skillicons.dev/icons?i=webpack" /><br>Webpack
-  <img src="https://skillicons.dev/icons?i=babel" /><br>Babel
-  <img src="https://skillicons.dev/icons?i=jest" /><br>Jest
-  <img src="https://skillicons.dev/icons?i=gcp" /><br>Google Cloud
-  <img src="https://skillicons.dev/icons?i=figma" /><br>Figma
-  <img src="https://skillicons.dev/icons?i=chrome" /><br>Chrome DevTools
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="50"/><br>HTML5</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="50"/><br>CSS3</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="50"/><br>JavaScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="50"/><br>React.js</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br>Node.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="50"/><br>Express.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br>MongoDB</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=jest" width="50"/><br>Jest</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="50"/><br>Git</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="50"/><br>GitHub</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="50"/><br>VSCode</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=chrome" width="50"/><br>Chrome DevTools</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=webpack" width="50"/><br>Webpack</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=babel" width="50"/><br>Babel</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=gcp" width="50"/><br>Google Cloud</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="50"/><br>Figma</td>
+  </tr>
+</table>
 </p>
 
 ---
