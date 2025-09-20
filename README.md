@@ -1,8 +1,5 @@
 <h1 align="center">
-  <video autoplay loop muted playsinline width="400">
-    <source src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/assets/hero.mp4" type="video/mp4">
-    Tu navegador no soporta videos.
-  </video>
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="400"/>  
 </h1>
 
 <p align="center">
@@ -64,6 +61,7 @@ Con experiencia en **JavaScript, Node.js, React y MongoDB**, y un pasado en **di
   <a href="https://www.linkedin.com/in/jared-asahel-díaz-barranco">
     <img src="https://img.shields.io/badge/LinkedIn-Jared%20Asahel%20Díaz%20Barranco-blue?style=for-the-badge&logo=linkedin"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Jared-Asahel">
     <img src="https://img.shields.io/badge/GitHub-Jared--Asahel-black?style=for-the-badge&logo=github"/>
   </a>
