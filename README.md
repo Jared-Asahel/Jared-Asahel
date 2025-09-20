@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="400"/>  
-</h1>
+<h1 align="center">👋 ¡Hola! Soy Jared Asahel Díaz</h1>
 
 <p align="center">
   🚀 Desarrollador Web Fullstack | 🎨 Background en diseño | 🌱 Siempre aprendiendo
