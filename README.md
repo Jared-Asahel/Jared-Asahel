@@ -1,46 +1,37 @@
 <h1 align="center">👋 ¡Hola! Soy Jared Asahel Díaz</h1>
 
----
-
-### 🧑‍💻 Sobre mí
-
-- Apasionado desarrollador web fullstack. Me encanta transformar ideas en aplicaciones funcionales.  
-- Vengo del mundo del diseño, lo que me ayuda a crear interfaces limpias y usables.  
-- Aprendo constantemente nuevas tecnologías y busco contribuir en proyectos con impacto real.  
-
----
-
-### ⚙️ Tecnologías y herramientas
-
-#### 🎨 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma" />
-</p>
-
-#### ⚡ Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-#### 🛠️ Herramientas y control de versiones
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,webpack,babel,chrome" />
-</p>
-
-#### 🧪 Testing
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=jest" />
-</p>
-
-#### ☁️ Cloud y despliegue
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=gcp" />
+  🚀 Desarrollador Web Fullstack | 🎨 Background en diseño | 🌱 Siempre aprendiendo
 </p>
 
 ---
 
-### 🔗 Conectemos
+### 🌟 Sobre mí
+Soy un **desarrollador web fullstack** apasionado por crear aplicaciones modernas y funcionales.  
+Con experiencia en **JavaScript, Node.js, React y MongoDB**, y un pasado en **diseño**, busco unir creatividad y tecnología para aportar en proyectos con impacto real.  
 
+---
+
+### 🛠️ Tecnologías y herramientas
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,webpack,babel,jest,gcp,figma,chrome" />
+</p>
+
+---
+
+### 📊 Estadísticas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jared-Asahel&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jared-Asahel&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jared-Asahel&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+---
+
+### 🤝 Conectemos
 <p align="center">
   <a href="https://www.linkedin.com/in/jared-asahel-díaz-barranco">
     <img src="https://img.shields.io/badge/LinkedIn-Jared%20Asahel%20Díaz%20Barranco-blue?style=for-the-badge&logo=linkedin"/>
@@ -52,19 +43,6 @@
 
 ---
 
-### 📈 Mis estadísticas de GitHub
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jared-Asahel&show_icons=true&theme=dark" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jared-Asahel&layout=compact&theme=dark" height="150"/>
+  ✨ *Gracias por pasarte por mi perfil* ✨  
 </p>
-
----
-
-### 🌱 Actualmente
-
-Trabajando en proyectos personales de **APIs, autenticación y despliegue**, mientras sigo mejorando mis habilidades en **backend, seguridad y optimización**.  
-
----
-
-✨ *Gracias por pasarte por mi perfil* 🚀
