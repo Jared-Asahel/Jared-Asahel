@@ -23,8 +23,6 @@ Con experiencia en **JavaScript, Node.js, React y MongoDB**, y un pasado en **di
     <td align="center"><img src="https://skillicons.dev/icons?i=css" width="50"/><br>CSS3</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=js" width="50"/><br>JavaScript</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=react" width="50"/><br>React.js</td>
-  </tr>
-  <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br>Node.js</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=express" width="50"/><br>Express.js</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br>MongoDB</td>
@@ -35,8 +33,6 @@ Con experiencia en **JavaScript, Node.js, React y MongoDB**, y un pasado en **di
     <td align="center"><img src="https://skillicons.dev/icons?i=github" width="50"/><br>GitHub</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="50"/><br>VSCode</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=chrome" width="50"/><br>Chrome DevTools</td>
-  </tr>
-  <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=webpack" width="50"/><br>Webpack</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=babel" width="50"/><br>Babel</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=gcp" width="50"/><br>Google Cloud</td>
@@ -51,10 +47,6 @@ Con experiencia en **JavaScript, Node.js, React y MongoDB**, y un pasado en **di
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jared-Asahel&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jared-Asahel&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jared-Asahel&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
