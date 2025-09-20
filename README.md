@@ -1,4 +1,4 @@
-<h1 align="center">👋 ¡Hola! Soy Jared Asahel Díaz</h1>
+<h1 align="center">👋 ¡Hola! Soy Jared Asahel</h1>
 
 <p align="center">
   🚀 Desarrollador Web Fullstack | 🎨 Background en diseño | 🌱 Siempre aprendiendo
